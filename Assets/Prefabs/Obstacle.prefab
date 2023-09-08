@@ -116,7 +116,7 @@ Transform:
   m_Children:
   - {fileID: 1395608686618660799}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &5056165765413990213
 BoxCollider:
@@ -176,5 +176,5 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 122
-  m_CollisionDetection: 0
+  m_Constraints: 0
+  m_CollisionDetection: 1
